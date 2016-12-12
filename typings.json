@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "highcharts": "registry:npm/highcharts#5.0.5+20161129162632"
+  },
+  "globalDependencies": {
+    "jquery": "registry:dt/jquery#1.10.0+20160929162922"
+  }
+}
